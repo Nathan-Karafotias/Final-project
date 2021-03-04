@@ -20,7 +20,7 @@ if option1 == "Y":
   print("")
   print("Two hours later...")
   print("")
-  print ("It is now 8am and school is almost in session, you no longer have time to shower and you have to eat breakfast on the run, get your lazy bum up.")
+  print("It is now 8am and school is almost in session, you no longer have time to shower and you have to eat breakfast on the run, get your lazy bum up.")
   print("")
   print("")
   print("")
@@ -34,7 +34,7 @@ if option1 == "Y":
   print("")
   print("Refresh page to try again")
 elif option1 == "X":
-  print("Ok, have a good day at school,",user)
+  print("Ok, have a good day at school,", user)
   print("")
   print("It might be your last")
   print("")
@@ -115,7 +115,7 @@ elif option1 == "X":
           print("")
           print("They find your friend and you hiding him, you get arrested for being an accomplice in the murder.")
           print("")
-          print("REALLY, YOU THOUGHT IT WAS A GOOD IDEA TO HID A MURDERER, HOW COULD ANYONE POSSIBLY BE THIS BAD AT THIS.")
+          print("REALLY, YOU THOUGHT IT WAS A GOOD IDEA TO HID A MURDERER, LMAO.")
         elif option5 == "Y":
           print("")
           print("The police arrest", friend)
@@ -126,11 +126,8 @@ elif option1 == "X":
           print("You make it home safely with no problems what-so-ever.")
           print("")
           print("")
-          print("Congrats, you have successfully made it thought the day without getting into trouble. If this took you more than one try I have no words.")
+          print("Congrats, you have successfully made it thought the day without getting into trouble.")
           print("")
           print("")
           print("")
           print("THANK YOU FOR PLAYING ALL THE WAY THROUGH, IT MEANS A LOT")
-
-
-
